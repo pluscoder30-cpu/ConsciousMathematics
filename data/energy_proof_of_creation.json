@@ -1,0 +1,15 @@
+{
+  "proof_type": "energy_extraction_simulation_proof",
+  "created_at": "2025-09-24T00:36:08.517926+00:00",
+  "description": "Signed proof of a simulated energy run (computational PoC).",
+  "energy_joules": 0.09940926923842916,
+  "energy_wh": 2.7613685899563656e-05,
+  "duration_s": 7.9921875,
+  "sample_count": 1024,
+  "feature_seed": "0.56182408|0.02200719|0.01255359|1024",
+  "sensor_salt": "0595181727a9a7083908689e0c61af5cebed8aa3cd04ac49a2bde793f4a0d397",
+  "signing_method": "ed25519",
+  "public_key_hex": "26269fd168897af12ea382530911002f48dbf7301c4b5616b26bb23c8edce9c5",
+  "signature_hex": "51b5dd5d762175ca92714c1f56ddc5aa7d21834564e79418c2dfd1daa24c0a619eef498bbb0717e93f3934b9eb3d3be61a3287818001615aa8ce80cb1e41200d",
+  "message_signed": "{\"created_at\": \"2025-09-24T00:36:08.517790+00:00\", \"duration_s\": 7.9921875, \"energy_joules\": 0.09940926923842916, \"energy_wh\": 2.7613685899563656e-05, \"feature_seed\": \"0.56182408|0.02200719|0.01255359|1024\", \"sample_count\": 1024, \"type\": \"energy_proof\"}"
+}
