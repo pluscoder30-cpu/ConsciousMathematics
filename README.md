@@ -1,5 +1,7 @@
 # Consciousness Energy: Proof-of-Creation (Signed PoC)
 
+> (https://www.livingphiphysics.com/)
+
 **Status:** Computational Proof-of-Concept (Simulation, not hardware)  
 **Goal:** Show a *verifiable*, cryptographically signed artifact that encodes an energy computation derived from voltage/current samples.  
 **Why:** Claims are easy; verification is hard. This repo demonstrates a minimal pipeline that anyone can run to reproduce the calculation and verify the signature.
